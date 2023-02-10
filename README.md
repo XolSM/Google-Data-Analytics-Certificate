@@ -4,7 +4,7 @@ This is my case study analysis for the Google Data Analysis Certificate Capstone
 
 ## 📋 [Executed Analysis Report](https://rpubs.com/XolSM/Google-Data-Analytics-Certificate-Bellabeat-Case-Study)
 
-## 📊 [Presentation for Stakeholders](https://github.com/XolSM/Postcard/blob/339f1f84739ea35a3e8ea8ec19541be5df61b101/Case%20Study%202-%20Bellabeat%20XSM.pdf)
+## 📊 [Presentation for Stakeholders](https://github.com/XolSM/Google-Data-Analytics-Certificate/blob/2673866dde65ab5f3737546ed7673cce85d6d8cb/Case%20Study%202-%20Bellabeat%20XSM.pdf)
 
 Bellabeat is a high-tech manufacturer of health-focused products for women. For this case study, the business task was to identify tendencies in the consumers usage of non-Bellabeat fitness smart devices with relevance to applicable trends for Bellabeat customers in order to help influence Bellabeat marketing strategy, taking into account that these trends could also help improve Bellabeat products.
 
